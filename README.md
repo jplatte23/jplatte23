@@ -1,10 +1,22 @@
-## Hello there 👋
+## Hey there 👋
 
-I'm Jason, a Gameplay Engineer based in California.
+I'm Jason, a software engineer based in Fairfield, CA.
 
-I design and build games primarily in Unity.
+I mostly work on gameplay + systems (Unity/C#), plus C++ fundamentals, and Roblox (Luau).
 
-Primary tech stack: C# and Unity for gameplay systems and tools, with supporting experience in C++, Lua (Roblox), Unreal Engine, and Python, plus strong debugging, iteration, and collaborative development workflows.
+---
 
-I've shipped several games on my own and through my education. My favorite is Summit on Roblox. 
+This is where I’ll be uploading some smaller projects, experiments, and things I’m currently working on.
 
+## Tools & Tech
+
+- Unity, C#
+- C++, Python, Luau (Roblox)
+- Git, GitHub, Perforce
+- Linear
+
+## A Bit About Me
+
+- 🎮 Avid RPG + horror game fan
+- 🧠 I like building systems that are simple, useful, and easy to understand
+- 🧪 I enjoy debugging + polishing (“last mile” fixes)
