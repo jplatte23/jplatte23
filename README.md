@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Jason, a software engineer based in Fairfield, CA.
+I'm Jason, a software engineer based in California.
 
 I mostly work on gameplay + systems (Unity/C#), plus C++ fundamentals, and Roblox (Luau).
 
