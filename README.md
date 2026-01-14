@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-I'm Jason, a software engineer based in California.
+I'm Jason, a Game Dev based in California.
 
 I mostly work on gameplay + systems (Unity/C#), plus C++ fundamentals, and Roblox (Luau).
 
