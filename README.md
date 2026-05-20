@@ -2,7 +2,7 @@
 
 I'm Jason, a game dev based in the San Francisco Bay Area.
 
-I mostly work on gameplay + systems (Unity/C#), plus C++ fundamentals, and Roblox (Luau).
+I mostly work on gameplay + systems in Unity C#, Unreal C++, and Roblox (Luau).
 
 ---
 
