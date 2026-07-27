@@ -11,12 +11,12 @@ This is where I’ll be uploading some smaller projects, experiments, and things
 ## Tools & Tech
 
 - Unity, Unreal, Roblox Studio, Blender
-- C#, C++, Python, Luau (Roblox)
+- C++, C#, Python, Luau (Roblox), HLSL
 - Git, Perforce
-- Linear (TMS), Notion
+- Jira, Linear (TMS), Notion
 
 ## A Bit About Me
 
--  Avid RPG + horror game fan
--  I like building systems that are simple, useful, and easy to understand
--  I enjoy rapid prototyping and working with other disciplines
+-  I love the "friendslop" genre and co-op games. I believe games are always more fun when shared with others. I also played collegiate overwatch for 3 years.
+-  I like building systems that are simple and make it easy for the user to understand them. I also enjoy having broad ownership of a project and learning new relevant skillsets.
+-  I enjoy gameplay programming, rapid prototyping, design, UI/UX, and working with other disciplines
