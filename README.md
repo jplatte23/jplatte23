@@ -1,12 +1,12 @@
 ## Hey there 👋
 
-I'm Jason, a game dev based in the San Francisco Bay Area.
+I'm Jason, a gameplay and systems programmer based in the San Francisco Bay Area.
 
-I mostly work on gameplay + systems in Unity C#, Unreal C++, and Roblox (Luau).
+I enjoy building gameplay mechanics, multiplayer systems, and engine features using Unreal Engine, Unity, and C++. I'm always interested in learning new technologies and building projects that challenge me as an engineer.
 
 ---
 
-This is where I’ll be uploading some smaller projects, experiments, and things I’m currently working on.
+This is where I upload code samples, experiments, and smaller projects that complement my portfolio.
 
 ## Tools & Tech
 
@@ -17,6 +17,7 @@ This is where I’ll be uploading some smaller projects, experiments, and things
 
 ## A Bit About Me
 
--  I love the "friendslop" genre and co-op games. I believe games are always more fun when shared with others. I also played collegiate overwatch for 3 years.
--  I like building systems that are simple and make it easy for the user to understand them. I also enjoy having broad ownership of a project and learning new relevant skillsets.
--  I enjoy gameplay programming, rapid prototyping, design, UI/UX, and working with other disciplines
+- I love co-op and "friendslop" games because I think games are at their best when they're shared with others. I also competed in collegiate Overwatch for three years.
+- I enjoy building gameplay systems that are intuitive, maintainable, and easy for players to understand.
+- I like collaborating across disciplines and taking ownership of features from initial prototype through implementation and polish.
+- I'm always learning, whether that's experimenting with new technologies, improving my C++ skills, or exploring different areas of game development.
